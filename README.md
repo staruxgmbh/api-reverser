@@ -1,4 +1,4 @@
-# API Reverser
+# WEB Reverser
 
 This repo is still under developement.
 
